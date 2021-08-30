@@ -4,14 +4,13 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum ilk repo. İçerisinde b
 
 # Installation 
 Öncelikle Projeyi klonlayın 
-> any git clone https://github.com/EkinK97/kodluyoruzilkrepo.git
+>``` any git clone https://github.com/EkinK97/kodluyoruzilkrepo.git ```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 # Linux için:
->cd kodluyoruzilkrepo
-code .
+>``` cd kodluyoruzilkrepo ```
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
@@ -19,3 +18,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+
+![PatikaDev](https://app.patika.dev/patikaLogo.png)
